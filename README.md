@@ -1,5 +1,3 @@
-Guess the Number Game
-Description:
 "Guess the Number" is a simple and fun interactive game where the player tries to guess a randomly generated number within a specified range. The game provides hints to guide the player, telling them whether their guess is too high or too low. It’s a great way to practice logic and problem-solving while having fun!
 
 Features:
